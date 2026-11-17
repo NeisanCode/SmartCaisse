@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # SmartCaisse — Frontend
 
 Application de caisse pour la cantine SIAT : saisie des commandes, vérification faciale du client par webcam, bons de commande imprimables en PDF, et rapports financiers par travailleur.
